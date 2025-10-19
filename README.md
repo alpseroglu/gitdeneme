@@ -1,4 +1,4 @@
-# 🚀 VibeOS v3.2 – Single Agent Edition
+# 🚀 VibeOS v3.2 – Single Agent Edition deneme 19 ekim 
 
 **Claude ile Profesyonel Yazılım Geliştirme Framework'ü**
 
